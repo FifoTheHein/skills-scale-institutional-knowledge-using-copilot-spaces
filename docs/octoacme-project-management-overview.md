@@ -17,16 +17,24 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Engineering Manager / Tech Lead: provides technical direction, architecture guidance, and developer support.
+- Designer / UX Researcher: translates user needs into flows, wireframes, and validated designs.
+- QA / Test Engineer: validates quality, acceptance criteria, and release readiness.
+- Customer Support / Customer Success: surfaces customer issues and supports launches and incidents.
+- Business Stakeholder / Sponsor: approves investments, defines business goals, and removes organizational blockers.
+- Sales / Solutions Engineer: connects technical capabilities to customer needs during pre-sales and rollout.
+
+> See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full persona definitions, responsibilities, and interaction patterns.
 
 ## Key Artifacts
 - Project Charter / One-pager
+- RACI Matrix (see [`octoacme-raci-matrix.md`](octoacme-raci-matrix.md))
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
+- Acceptance Criteria & Definition of Done (see [`octoacme-definition-of-done.md`](octoacme-definition-of-done.md))
 - Risk Register
 - Retrospective notes and action items
+- Meeting agendas and notes (see [`octoacme-meeting-templates.md`](octoacme-meeting-templates.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
