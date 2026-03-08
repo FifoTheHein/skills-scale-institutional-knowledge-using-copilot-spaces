@@ -9,12 +9,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team (see [`octoacme-meeting-templates.md`](octoacme-meeting-templates.md))
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+4. Define Definition of Done (DoD) — see [`octoacme-definition-of-done.md`](octoacme-definition-of-done.md)
+5. Brief Designer / UX Researcher and confirm design milestones
+6. Confirm QA involvement and draft initial test strategy
+7. Identify dependencies and integration points
+8. Create release plan and milestone map
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +38,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (use kickoff agenda in [`octoacme-meeting-templates.md`](octoacme-meeting-templates.md))
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (see [`octoacme-definition-of-done.md`](octoacme-definition-of-done.md))
 - [ ] Initial test plan / QA approach drafted
+- [ ] Designer briefed and design milestones added to project board
+- [ ] RACI matrix reviewed and project-specific version saved (see [`octoacme-raci-matrix.md`](octoacme-raci-matrix.md))

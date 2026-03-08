@@ -18,15 +18,19 @@ OctoAcme project delivery is guided by five core principles:
 
 ## Core Roles & Personas
 
-See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full persona definitions.
+See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full persona definitions, responsibilities, and interaction patterns.
 
 | Role | Responsibilities |
 |---|---|
 | **Project Manager (PM)** | Coordinates delivery, schedules, risks, and stakeholder communication |
 | **Product Manager (PdM)** | Defines outcomes, prioritizes backlog, and measures success |
 | **Developers** | Implement features, write tests, participate in design and code reviews |
-| **QA / Testing** | Validate quality and acceptance criteria |
-| **Stakeholders** | Provide inputs and approvals |
+| **Engineering Manager / Tech Lead** | Provides technical direction, architecture guidance, and developer support |
+| **Designer / UX Researcher** | Translates user needs into flows, wireframes, and validated designs |
+| **QA / Test Engineer** | Validates quality, acceptance criteria, and release readiness |
+| **Customer Support / Customer Success** | Surfaces customer issues and supports launches and incidents |
+| **Business Stakeholder / Sponsor** | Approves investments, defines business goals, removes organizational blockers |
+| **Sales / Solutions Engineer** | Connects technical capabilities to customer needs during pre-sales and rollout |
 
 ---
 
@@ -129,10 +133,13 @@ See [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) for full 
 | Document | Description |
 |---|---|
 | [`octoacme-project-management-overview.md`](octoacme-project-management-overview.md) | High-level summary of principles, roles, artifacts, and lifecycle |
-| [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) | Detailed persona definitions for PM, PdM, and Developers |
+| [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md) | Detailed persona definitions for all nine project roles |
+| [`octoacme-raci-matrix.md`](octoacme-raci-matrix.md) | RACI matrix clarifying accountability across roles for key activities |
 | [`octoacme-project-initiation.md`](octoacme-project-initiation.md) | Initiation checklist and One-pager template |
 | [`octoacme-project-planning.md`](octoacme-project-planning.md) | Planning activities, backlog template, sprint planning guidance |
+| [`octoacme-definition-of-done.md`](octoacme-definition-of-done.md) | Shared DoD standard, sprint/release DoD, and project-level override guidance |
+| [`octoacme-meeting-templates.md`](octoacme-meeting-templates.md) | Reusable agendas for kickoff, sprint planning, standup, review, retro, and design review |
 | [`octoacme-execution-and-tracking.md`](octoacme-execution-and-tracking.md) | Day-to-day execution, PR workflow, metrics |
 | [`octoacme-risks-and-communication.md`](octoacme-risks-and-communication.md) | Risk register, stakeholder communication templates |
-| [`octoacme-release-and-deployment.md`](octoacme-release-and-deployment.md) | Release types, deployment checklist, rollback playbook |
+| [`octoacme-release-and-deployment.md`](octoacme-release-and-deployment.md) | Release types, QA sign-off checklist, deployment checklist, rollback playbook |
 | [`octoacme-retrospective-and-continuous-improvement.md`](octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure and continuous improvement practices |
